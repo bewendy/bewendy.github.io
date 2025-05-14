@@ -16,14 +16,6 @@
         <description></description>
         </item>
         <item>
-        <title></title>
-        <link>https://bewendy.github.io/p/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://bewendy.github.io/p/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Links</title>
         <link>https://bewendy.github.io/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -140,6 +132,28 @@ And that has made all the difference.&lt;/p&gt;
         
         <guid>https://bewendy.github.io/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>重启博客</title>
+        <link>https://bewendy.github.io/p/%E9%87%8D%E5%90%AF%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://bewendy.github.io/p/%E9%87%8D%E5%90%AF%E5%8D%9A%E5%AE%A2/</guid>
+        <description>&lt;p&gt;The Road Not Taken
+Robert Frost&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bewendy.github.io/1.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;新头像 新气象&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;时隔多年，终于重新拥有博客了
+就用这个新头像重启我新的博客人生吧&lt;/p&gt;
 </description>
         </item>
         

@@ -26,8 +26,6 @@
     <loc>https://bewendy.github.io/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bewendy.github.io/p/</loc>
-  </url><url>
     <loc>https://bewendy.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -73,5 +71,7 @@
     <loc>https://bewendy.github.io/p/the-road-not-taken/</loc>
   </url><url>
     <loc>https://bewendy.github.io/%E5%85%B3%E4%BA%8E/</loc>
+  </url><url>
+    <loc>https://bewendy.github.io/p/%E9%87%8D%E5%90%AF%E5%8D%9A%E5%AE%A2/</loc>
   </url>
 </urlset>
