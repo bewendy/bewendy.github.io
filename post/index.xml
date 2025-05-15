@@ -6,7 +6,18 @@
         <description>Recent content in Posts on 演示站点</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright><atom:link href="https://bewendy.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://bewendy.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>重启博客</title>
+        <link>https://bewendy.github.io/p/%E6%96%B0%E5%A4%B4%E5%83%8F-%E6%96%B0%E6%B0%94%E8%B1%A1/</link>
+        <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://bewendy.github.io/p/%E6%96%B0%E5%A4%B4%E5%83%8F-%E6%96%B0%E6%B0%94%E8%B1%A1/</guid>
+        <description>&lt;img src="https://bewendy.github.io/p/%E6%96%B0%E5%A4%B4%E5%83%8F-%E6%96%B0%E6%B0%94%E8%B1%A1/1.png" alt="Featured image of post 重启博客" /&gt;&lt;p&gt;终于重新拥有博客了
+就用这个新头像重启我新的博客人生吧&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>The Road Not Taken</title>
         <link>https://bewendy.github.io/p/the-road-not-taken/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -71,30 +82,6 @@ And that has made all the difference.&lt;/p&gt;
 一片树林里分出两条路——
 而我选择了人际更少的一条，
 从此决定了我一生的道路。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>重启博客</title>
-        <link>https://bewendy.github.io/p/%E9%87%8D%E5%90%AF%E5%8D%9A%E5%AE%A2/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://bewendy.github.io/p/%E9%87%8D%E5%90%AF%E5%8D%9A%E5%AE%A2/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;https://bewendy.github.io/p/%E9%87%8D%E5%90%AF%E5%8D%9A%E5%AE%A2/1.png&#34;
-	width=&#34;634&#34;
-	height=&#34;634&#34;
-	srcset=&#34;https://bewendy.github.io/p/%E9%87%8D%E5%90%AF%E5%8D%9A%E5%AE%A2/1_hu_ef649ef39a7a809.png 480w, https://bewendy.github.io/p/%E9%87%8D%E5%90%AF%E5%8D%9A%E5%AE%A2/1_hu_762823b6ce0867cc.png 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;新头像 新气象&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;100&#34;
-		data-flex-basis=&#34;240px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;时隔多年，终于重新拥有博客了
-就用这个新头像重启我新的博客人生吧&lt;/p&gt;
 </description>
         </item>
         
