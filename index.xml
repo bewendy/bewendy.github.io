@@ -76,18 +76,14 @@
         <guid>https://bewendy.github.io/p/the-road-not-taken/</guid>
         <description>&lt;p&gt;The Road Not Taken
 Robert Frost&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://bewendy.github.io/p/the-road-not-taken/1.jpg&#34;
-	width=&#34;643&#34;
-	height=&#34;800&#34;
-	srcset=&#34;https://bewendy.github.io/p/the-road-not-taken/1_hu_d15452e02a73df69.jpg 480w, https://bewendy.github.io/p/the-road-not-taken/1_hu_49da4d5c0eb4624c.jpg 1024w&#34;
+&lt;p&gt;&lt;img src=&#34;https://bewendy.github.io/1.jpg&#34;
+	
+	
+	
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Road Not Taken&#34;
 	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;80&#34;
-		data-flex-basis=&#34;192px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Two roads diverged in a yellow wood,
