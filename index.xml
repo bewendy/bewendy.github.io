@@ -13,14 +13,18 @@
         <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
         
         <guid>https://bewendy.github.io/p/%E5%BE%85%E5%AE%9A/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;https://bewendy.github.io/1.jpg&#34;
-	
-	
-	
+        <description>&lt;p&gt;&lt;img src=&#34;https://bewendy.github.io/p/%E5%BE%85%E5%AE%9A/1.jpg&#34;
+	width=&#34;3221&#34;
+	height=&#34;2415&#34;
+	srcset=&#34;https://bewendy.github.io/p/%E5%BE%85%E5%AE%9A/1_hu_bbeb9122134d882c.jpg 480w, https://bewendy.github.io/p/%E5%BE%85%E5%AE%9A/1_hu_b5e01cc515910f5a.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Wendy&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
 </description>
